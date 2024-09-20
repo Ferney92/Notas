@@ -1,0 +1,16 @@
+h1{
+    background-color:rgba(6, 26, 6, 0.434);
+    color:rgb(46, 4, 4);
+    font-size:34;
+
+}
+tr th{
+    background-color:black;
+    color:blue;
+    
+}
+tr td{
+    background-color:violet;
+    color:white;
+    
+}
